@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Welcome to my profile!
 
-<!--
-**Bharadwaj7201/bharadwaj7201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MS in Data Science @ University of New Haven 
+📊 Data Analyst | Research Assistant | Machine Learning & Analytics | ☁️ AWS | Power BI | Python | SQL  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I am a Data Analyst with 2+ years of professional experience building end-to-end data pipelines, developing predictive models, and creating scalable analytics dashboards for decision-making.
+
+Currently working as a **Research Assistant** on an ML-driven platform forecasting **international student enrollment in AI-focused programs**, helping universities anticipate future demand using data-driven insights.
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages:** Python, SQL, Java, Bash, Groovy, YAML
+**Databases:** PostgreSQL, MySQL, MongoDB  
+**Visualization:** Power BI, Tableau, Matplotlib, Seaborn, Plotly  
+**Machine Learning:** Regression, Classification, Feature Engineering, Statistical Analysis  
+**Cloud & DevOps:** AWS, Azure, Docker, Kubernetes, Terraform, Jenkins  
+**Tools:** Git, Linux, Excel  
+
+---
+
+## 📌 Featured Projects
+
+### 📈 Urban Air Quality Analytics
+- Built scalable ETL pipelines for large-scale air quality data
+- Automated ingestion and preprocessing using Python & SQL
+- Designed interactive Power BI dashboards for trend analysis  
+🔗 [View Repository](https://github.com/Bharadwaj7201/Urban-Air-Quality-Analytics)
+
+### 🤖 AI Agents for Snake Game (Search vs Reinforcement Learning)
+- Implemented classical search and RL agents
+- Designed custom environments and reward functions
+- Quantitatively compared performance metrics  
+🔗 [View Repository](https://github.com/Bharadwaj7201/Comparison-of-Search-Based-and-Reinforcement-Learning-Agents-in-Solving-the-Game-of-Snake)
+
+### 🚦 Smart Traffic Volume Prediction Using Machine Learning
+Built machine learning models to predict traffic volume based on historical and environmental factors, enabling data-driven traffic planning and congestion analysis.
+- Regression models, feature engineering, model evaluation
+- Python, Pandas, Scikit-learn, Visualization  
+🔗 [View Repository](https://github.com/Bharadwaj7201/Smart-Traffic-Volume-Prediction-Using-Machine-Learning)
+
+---
+
+## 📜 Certifications
+- Microsoft Azure Fundamentals (AZ-900)
+- Google Cloud Digital Leader
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: bharadwaj1207@gmail.com
+- 💼 LinkedIn: [bharadwaj-gottimukkula](https://www.linkedin.com/in/bharadwaj-gottimukkula/)
+
+⭐ If you find my work useful, consider starring the repositories!
+
