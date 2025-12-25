@@ -1,7 +1,8 @@
 # 👋 Welcome to my profile!
 
-🎓 MS in Data Science @ University of New Haven 
-📊 Data Analyst | Research Assistant | Machine Learning & Analytics | ☁️ AWS | Power BI | Python | SQL  
+MS in Data Science @ University of New Haven 
+
+Data Analyst | Research Assistant | Machine Learning & Analytics | AWS | Power BI | Python | SQL  
 
 ---
 
@@ -13,13 +14,19 @@ Currently working as a **Research Assistant** on an ML-driven platform forecasti
 ---
 
 ## 🛠️ Technical Skills
+**Languages:** Python, Java, SQL, Bash, PowerShell, Groovy, YAML  
 
-**Languages:** Python, SQL, Java, Bash, Groovy, YAML
-**Databases:** PostgreSQL, MySQL, MongoDB  
-**Visualization:** Power BI, Tableau, Matplotlib, Seaborn, Plotly  
-**Machine Learning:** Regression, Classification, Feature Engineering, Statistical Analysis  
-**Cloud & DevOps:** AWS, Azure, Docker, Kubernetes, Terraform, Jenkins  
-**Tools:** Git, Linux, Excel  
+**Databases:** MySQL, PostgreSQL, MongoDB  
+
+**Data Visualization:** Microsoft Excel, Power BI, Tableau, Matplotlib, Seaborn, Plotly  
+
+**Operating Systems:** Linux, Windows  
+
+**Machine Learning & Analytics:** Regression, Classification, Feature Engineering, Statistical Analysis  
+
+**Cloud & DevOps:** AWS, Azure, Docker, Kubernetes, Terraform, Jenkins, Git  
+
+
 
 ---
 
