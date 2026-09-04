@@ -7,7 +7,7 @@ Research Assistant | Machine Learning & Analytics | AWS | Power BI | Python | SQ
 ---
 
 ## 🚀 About Me
-I am a Data Analyst with 2+ years of professional experience building end-to-end data pipelines, developing predictive models, and creating scalable analytics dashboards for decision-making.
+I am a Data Science Student with 2 years of professional experience building end-to-end data pipelines, developing predictive models, and creating scalable analytics dashboards for decision-making.
 
 Currently working as a **Research Assistant** on an ML-driven platform forecasting **international student enrollment in AI-focused programs**, helping universities anticipate future demand using data-driven insights.
 
