@@ -2,7 +2,7 @@
 
 MS in Data Science @ University of New Haven 
 
-Data Analyst | Research Assistant | Machine Learning & Analytics | AWS | Power BI | Python | SQL  
+Research Assistant | Machine Learning & Analytics | AWS | Power BI | Python | SQL  
 
 ---
 
